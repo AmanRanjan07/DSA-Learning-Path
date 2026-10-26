@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitwiseOperatorsNS/BitwiseOperatorsNS.iml" filepath="$PROJECT_DIR$/BitwiseOperatorsNS/BitwiseOperatorsNS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Learning kushwaha.iml" filepath="$PROJECT_DIR$/.idea/Java Learning kushwaha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPPS Concept/OPPS Concept.iml" filepath="$PROJECT_DIR$/OPPS Concept/OPPS Concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STRINGs/STRINGs.iml" filepath="$PROJECT_DIR$/STRINGs/STRINGs.iml" />
+    </modules>
+  </component>
+</project>

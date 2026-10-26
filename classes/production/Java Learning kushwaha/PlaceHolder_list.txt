@@ -1,0 +1,27 @@
+Format Specifier                Data Type	            Output or Return value
+
+%a                           floating point             Returns a Hex output of floating point number
+%b                           any type	                True or False
+%c                           character	                Unicode character
+%d                           integer                 	Decimal Integer
+%e                           floating point	            a decimal number in scientific notation
+%f                           floating point	            decimal number
+%g                          floating point	-decimal number, possibly in scientific notation depending on the precision and value
+%h                          any type	                Hex String of value from hashCode() method
+%n                          None                       	Platform-specific line separator
+%o                          integer                  	Octal number
+%s                          any type                **	String value
+
+%t                          Date/Time                	%t is the prefix for Date/Time conversions.
+%x                          integer                 	Hex string
+
+
+** The + operator in Java serves two primary functions: arithmetic addition for numeric
+ types and string concatenation for joining text strings
+
+ **The + operator requires two targets (operands) to work, whereas
+ the ! ("not") operator changes a single boolean target.
+
+ ** Concatenation    str1 + str2        Combines both values into a brand new string
+ **Reference Equality       str1 == str2        Checks if both variables share the same memory address.
+ **Content Value Equality       str1.equals(str2)   Checks if the actual characters match sequentially.
